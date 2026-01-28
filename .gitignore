@@ -1,11 +1,6 @@
-# macOS
 .DS_Store
-
-# build artifacts
 dist/
 build/
-
-# captures / logs / reports
 *.mp4
 *.mov
 *.png
@@ -14,11 +9,7 @@ build/
 *.txt
 *.csv
 *.xlsx
-
-# app packages
 *.apk
 *.ipa
-
-# python cache
 __pycache__/
 *.pyc
